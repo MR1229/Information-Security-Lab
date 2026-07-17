@@ -111,15 +111,6 @@ O(N)
 
 The Caesar Cipher is one of the simplest substitution ciphers. It encrypts text by shifting every alphabet using a fixed key. Although it is not secure for modern applications, it helps in understanding the fundamentals of cryptography and encryption.
 
----
-
-# Sample Output
-
-Original Text  : Mahesh Pawar 1229
-
-Encrypted Text : Pdkhvk Sdzdu 1229
-
-Decrypted Text : Mahesh Pawar 1229
 
 ------------------------------------------------------------
 
